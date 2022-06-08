@@ -1,0 +1,25 @@
+name: Deliver Tokens to Consumer
+
+on:
+  push:
+    paths:
+      - 'output/**'
+
+jobs:
+  deliver_to_react_application:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Deliver Platform Deliverable To Application
+        uses: andstor/copycat-action@v3
+        with:
+          personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+          src_branch: gen-design-tokens-themes-with-sd
+          src_path: output/css/_variables.css
+          dst_owner: pandabrand
+          dst_report_name: design-token-theme-shades
+          dst_branch: main
+          dst_path: tokens/_variables.css
+          username: pandabrand
+          email: pandabrand@gmail.com
+          commit_message: update platform deliverable
