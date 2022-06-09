@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Jun 2022 21:48:19 GMT
+ * Generated on Thu, 09 Jun 2022 22:44:46 GMT
  */
 
 :root {
@@ -24,14 +24,14 @@
   --color-background-page-secondary-30: hsl(176, 100%, 25%);
   --color-background-page-secondary-20: hsl(176, 100%, 15%);
   --color-background-page-secondary-10: hsl(176, 100%, 5%);
-  --color-background-page-error-40: hsl(350, 100%, 36%);
-  --color-background-page-error-50: hsl(350, 100%, 46%);
-  --color-background-page-error-60: hsl(350, 100%, 56%);
-  --color-background-page-error-70: hsl(350, 100%, 66%);
-  --color-background-page-error-80: hsl(350, 100%, 76%);
-  --color-background-page-error-90: hsl(350, 100%, 86%);
-  --color-background-page-error-100: hsl(350, 100%, 96%);
-  --color-background-page-error-30: hsl(350, 100%, 26%);
-  --color-background-page-error-20: hsl(350, 100%, 16%);
-  --color-background-page-error-10: hsl(350, 100%, 6%);
+  --color-background-page-error-40: hsl(349, 100%, 35%);
+  --color-background-page-error-50: hsl(349, 100%, 45%);
+  --color-background-page-error-60: hsl(349, 100%, 55%);
+  --color-background-page-error-70: hsl(349, 100%, 65%);
+  --color-background-page-error-80: hsl(349, 100%, 75%);
+  --color-background-page-error-90: hsl(349, 100%, 85%);
+  --color-background-page-error-100: hsl(349, 100%, 95%);
+  --color-background-page-error-30: hsl(349, 100%, 25%);
+  --color-background-page-error-20: hsl(349, 100%, 14%);
+  --color-background-page-error-10: hsl(349, 100%, 5%);
 }
