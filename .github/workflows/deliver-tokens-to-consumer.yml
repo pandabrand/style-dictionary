@@ -17,7 +17,7 @@ jobs:
           src_branch: documenting-design-tokens-with-docusaurus
           src_path: output/css/_variables.css
           dst_owner: pandabrand
-          dst_report_name: design-tokens-documentation
+          dst_repo_name: design-tokens-documentation
           dst_branch: add-token-docs
           dst_path: tokens/_variables.css
           username: pandabrand
