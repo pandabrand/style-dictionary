@@ -13,7 +13,7 @@ jobs:
       - name: Deliver Platform Deliverable To Application
         uses: andstor/copycat-action@v3
         with:
-          personal_token: ${{ secrets.API_TOKEN_GITHUB }}
+          personal_token: ${{ secrets.DOC_SECRET }}
           src_branch: documenting-design-tokens-with-docusaurus
           src_path: output/css/_variables.css
           dst_owner: pandabrand
