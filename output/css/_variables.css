@@ -1,37 +1,29 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Jun 2022 15:24:27 GMT
+ * Generated on Fri, 10 Jun 2022 18:05:43 GMT
  */
 
 :root {
-  --color-background-page-primary-70: hsl(265, 78%, 65%);
-  --color-background-page-primary-80: hsl(265, 78%, 75%);
-  --color-background-page-primary-90: hsl(265, 78%, 85%);
-  --color-background-page-primary-100: hsl(265, 78%, 95%);
-  --color-background-page-primary-60: hsl(265, 78%, 54%);
-  --color-background-page-primary-50: hsl(265, 78%, 45%);
-  --color-background-page-primary-40: hsl(265, 78%, 35%);
-  --color-background-page-primary-30: hsl(265, 78%, 25%);
-  --color-background-page-primary-20: hsl(265, 78%, 14%);
-  --color-background-page-primary-10: hsl(265, 78%, 5%);
-  --color-background-page-secondary-40: hsl(176, 100%, 35%);
-  --color-background-page-secondary-50: hsl(176, 100%, 45%);
-  --color-background-page-secondary-60: hsl(176, 100%, 55%);
-  --color-background-page-secondary-70: hsl(176, 100%, 65%);
-  --color-background-page-secondary-80: hsl(176, 100%, 75%);
-  --color-background-page-secondary-90: hsl(176, 100%, 85%);
-  --color-background-page-secondary-100: hsl(176, 100%, 95%);
-  --color-background-page-secondary-30: hsl(176, 100%, 25%);
-  --color-background-page-secondary-20: hsl(176, 100%, 15%);
-  --color-background-page-secondary-10: hsl(176, 100%, 5%);
-  --color-background-page-error-40: hsl(349, 100%, 35%);
-  --color-background-page-error-50: hsl(349, 100%, 45%);
-  --color-background-page-error-60: hsl(349, 100%, 55%);
-  --color-background-page-error-70: hsl(349, 100%, 65%);
-  --color-background-page-error-80: hsl(349, 100%, 75%);
-  --color-background-page-error-90: hsl(349, 100%, 85%);
-  --color-background-page-error-100: hsl(349, 100%, 95%);
-  --color-background-page-error-30: hsl(349, 100%, 25%);
-  --color-background-page-error-20: hsl(349, 100%, 14%);
-  --color-background-page-error-10: hsl(349, 100%, 5%);
+  --gradient-button-border-gradient: [object Object];
+  --gradient-text-input-border: [object Object];
+  --grid-spacing-padding-20-0: [object Object];
+  --grid-spacing-padding-20-1: [object Object];
+  --grid-spacing-padding-20-2: [object Object];
+  --grid-spacing-padding-20-3: [object Object];
+  --grid-spacing-padding-16-0: [object Object];
+  --grid-spacing-padding-16-1: [object Object];
+  --grid-spacing-padding-16-2: [object Object];
+  --grid-spacing-padding-16-3: [object Object];
+  --effect-border-top-and-bottom-0: [object Object];
+  --effect-border-top-and-bottom-1: [object Object];
+  --effect-border-top: [object Object];
+  --effect-divider-bottom: [object Object];
+  --effect-button-segment-left-0: [object Object];
+  --effect-button-segment-left-1: [object Object];
+  --effect-button-segment-left-2: [object Object];
+  --effect-button-segment-left-3: [object Object];
+  --effect-button-segment-middle-0: [object Object];
+  --effect-button-segment-middle-1: [object Object];
+  --effect-button-segment-middle-2: [object Object];
+  --effect-button-segment-middle-3: [object Object];
 }
