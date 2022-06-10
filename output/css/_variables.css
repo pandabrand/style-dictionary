@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 10 Jun 2022 14:47:24 GMT
+ * Generated on Fri, 10 Jun 2022 14:54:23 GMT
  */
 
 :root {
@@ -14,16 +14,16 @@
   --color-background-page-primary-30: hsl(262, 100%, 28%);
   --color-background-page-primary-20: hsl(262, 100%, 18%);
   --color-background-page-primary-10: hsl(262, 100%, 8%);
-  --color-background-page-secondary-40: hsl(173, 100%, 37%);
-  --color-background-page-secondary-50: hsl(173, 100%, 47%);
-  --color-background-page-secondary-60: hsl(173, 100%, 57%);
-  --color-background-page-secondary-70: hsl(173, 100%, 67%);
-  --color-background-page-secondary-80: hsl(173, 100%, 77%);
-  --color-background-page-secondary-90: hsl(173, 100%, 87%);
-  --color-background-page-secondary-100: hsl(173, 100%, 97%);
-  --color-background-page-secondary-30: hsl(173, 100%, 27%);
-  --color-background-page-secondary-20: hsl(173, 100%, 17%);
-  --color-background-page-secondary-10: hsl(173, 100%, 7%);
+  --color-background-page-secondary-40: hsl(179, 100%, 33%);
+  --color-background-page-secondary-50: hsl(179, 100%, 43%);
+  --color-background-page-secondary-60: hsl(179, 100%, 53%);
+  --color-background-page-secondary-70: hsl(179, 100%, 63%);
+  --color-background-page-secondary-80: hsl(179, 100%, 73%);
+  --color-background-page-secondary-90: hsl(179, 100%, 83%);
+  --color-background-page-secondary-100: hsl(179, 100%, 93%);
+  --color-background-page-secondary-30: hsl(179, 100%, 23%);
+  --color-background-page-secondary-20: hsl(179, 100%, 13%);
+  --color-background-page-secondary-10: hsl(179, 100%, 3%);
   --color-background-page-error-40: hsl(349, 100%, 35%);
   --color-background-page-error-50: hsl(349, 100%, 45%);
   --color-background-page-error-60: hsl(349, 100%, 55%);
