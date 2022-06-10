@@ -3,7 +3,7 @@
     "background": {
       "page": {
         "primary": {
-          "value": "rgba(162, 94, 255, 1)",
+          "value": "rgba(152, 94, 235, 1)",
           "type": "color"
         },
         "secondary": {
